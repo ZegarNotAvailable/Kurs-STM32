@@ -1,0 +1,20 @@
+# Accessories needed.
+- [![Nucleo F411RE](https://sklep.msalamon.pl/wp-content/uploads/2020/07/sklep_msalamon_NUCLEO64_STLINKV2.jpg)(https://sklep.msalamon.pl/produkt/nucleo-f411re/)]
+- [![Płytka stykowa 830 pól](https://sklep.msalamon.pl/produkt/plytka-stykowa-830-pol-biala/)]
+- [![Przewody FF 40 szt](https://sklep.msalamon.pl/produkt/przewody-polaczeniowe-20cm-40szt-zensko-zenskie/)]
+- [![Przewody FM 40 szt](https://sklep.msalamon.pl/produkt/przewody-polaczeniowe-20cm-40szt-zensko-meskie/)]
+- [![Przewody MM 40 szt](https://sklep.msalamon.pl/produkt/przewody-polaczeniowe-20cm-40szt-mesko-meskie/)]
+- [![Diody LED](https://www.tme.eu/pl/details/oso5ja71f4b/diody-led-tht-prostokatne/optosupply/)]
+- [![Rezystor do LED](https://www.tme.eu/pl/details/cf1_4w-330r/rezystory-weglowe-tht-1-4w/sr-passives/)]
+- [![Przyciski do stykówki](https://www.tme.eu/pl/details/tact-613n-f/mikroprzelaczniki-tact/ninigi/)]
+- [![Potencjometr 10k linowy](https://www.tme.eu/pl/details/rkt6v-10k/potencjometry-tht-jednoobrotowe/sr-passives/)]
+- [![Joystick](https://sklep.msalamon.pl/produkt/modul-3-osiowy-joystick-analogowy/)]
+- [![Mikrofon KY-037](https://sklep.msalamon.pl/produkt/modul-mikrofonu-ze-wzmacniaczem/)
+- [![OLED 0.96" Blue](https://sklep.msalamon.pl/produkt/wyswietlacz-oled-096-i2c-niebieski/)]
+- [![TFT 2,4 SPI + touch](https://sklep.msalamon.pl/produkt/tft-24-spi-dotyk/)]
+- [![BMP280](https://sklep.msalamon.pl/produkt/bmp280-czujnik-cisnienia/)]
+- [![Czytnik SD SDIO](https://sklep.msalamon.pl/produkt/czytnik-kart-microsd-spi-sdio/)]
+- [![Przewód USB Mini](https://sklep.msalamon.pl/produkt/przewod-usb-mini-1m/)]
+- [![Przewód USB Micro](https://sklep.msalamon.pl/produkt/przewod-usb-micro-1m/)]
+- [![USB micro to goldpin](https://sklep.msalamon.pl/produkt/gniazdo-microusb-do-plytki-prototypowej/)]
+- [![USB A gniazdo to goldpin](https://sklep.msalamon.pl/produkt/gniazdo-usb-typ-a-do-plytki-prototypowej/)]- [![
