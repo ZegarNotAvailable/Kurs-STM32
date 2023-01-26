@@ -1,18 +1,35 @@
 # Accessories needed.
-- [![Nucleo F411RE](https://sklep.msalamon.pl/wp-content/uploads/2020/07/sklep_msalamon_NUCLEO64_STLINKV2.jpg)(https://sklep.msalamon.pl/produkt/nucleo-f411re/)]
-- [![Płytka stykowa 830 pól](https://sklep.msalamon.pl/wp-content/uploads/2019/10/sklep_msalamon_BREADBOARD_830_WHITE_2.jpg)(https://sklep.msalamon.pl/produkt/plytka-stykowa-830-pol-biala/)]
-- [![Przewody FF 40 szt](https://sklep.msalamon.pl/wp-content/uploads/2019/06/sklep_msalamon_dupont_wires_40x20cm_FF-1.jpg)(https://sklep.msalamon.pl/produkt/przewody-polaczeniowe-20cm-40szt-zensko-zenskie/)]
-- [![Przewody FM 40 szt](https://sklep.msalamon.pl/wp-content/uploads/2019/06/sklep_msalamon_dupont_wires_40x20cm_FM-1.jpg)(https://sklep.msalamon.pl/produkt/przewody-polaczeniowe-20cm-40szt-zensko-meskie/)]
-- [![Przewody MM 40 szt](https://sklep.msalamon.pl/wp-content/uploads/2019/06/sklep_msalamon_dupont_wires_40x20cm_MM-1.jpg)(https://sklep.msalamon.pl/produkt/przewody-polaczeniowe-20cm-40szt-mesko-meskie/)]
-- [![Diody LED](https://ce8dc832c.cloudimg.io/v7/_cdn_/F8/3C/70/00/0/508815_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=bb7868b7a10542b7e94811dcc8ac64508ccb8c38)(https://www.tme.eu/pl/details/oso5ja71f4b/diody-led-tht-prostokatne/optosupply/)]
-- [![Rezystor do LED](https://ce8dc832c.cloudimg.io/v7/_cdn_/BA/5E/00/00/0/58795_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=50bbad1e718fbcd3dc2ea998f28fbe6de81a27a5)(https://www.tme.eu/pl/details/cf1_4w-330r/rezystory-weglowe-tht-1-4w/sr-passives/)]
-- [![Joystick](https://sklep.msalamon.pl/wp-content/uploads/2019/07/sklep_msalamon_JOYSTICK_KY023.jpg)(https://sklep.msalamon.pl/produkt/modul-3-osiowy-joystick-analogowy/)]
-- [![Mikrofon KY-037](https://sklep.msalamon.pl/wp-content/uploads/2019/07/sklep_msalamon_MICROPHONE_KY037.png)(https://sklep.msalamon.pl/produkt/modul-mikrofonu-ze-wzmacniaczem/)
-- [![OLED 0.96" Blue](https://sklep.msalamon.pl/wp-content/uploads/2019/03/sklep_msalamon_OLED_SSD1306_0_96_blue-600x600.jpg)(https://sklep.msalamon.pl/produkt/wyswietlacz-oled-096-i2c-niebieski/)]
-- [![TFT 2,4 SPI + touch](https://sklep.msalamon.pl/wp-content/uploads/2020/08/sklep_msalamon_TFT_24_ILI9341_RESTOUCH_SPI.png)(https://sklep.msalamon.pl/produkt/tft-24-spi-dotyk/)]
-- [![BMP280](https://sklep.msalamon.pl/wp-content/uploads/2019/03/sklep_msalamon_BMP280.jpg)(https://sklep.msalamon.pl/produkt/bmp280-czujnik-cisnienia/)]
-- [![Czytnik SD SDIO](https://sklep.msalamon.pl/wp-content/uploads/2019/07/sklep_msalamon_MICROSD_READER_SPISDIO_MOD_2.jpg)(https://sklep.msalamon.pl/produkt/czytnik-kart-microsd-spi-sdio/)]
-- [![Przewód USB Mini](https://sklep.msalamon.pl/wp-content/uploads/2020/08/sklep_msalamon_CABLE_USB_MINI_1M.jpg)(https://sklep.msalamon.pl/produkt/przewod-usb-mini-1m/)]
-- [![Przewód USB Micro](https://sklep.msalamon.pl/wp-content/uploads/2020/08/sklep_msalamon_CABLE_USB_MICRO_1M.jpg)(https://sklep.msalamon.pl/produkt/przewod-usb-micro-1m/)]
-- [![USB micro to goldpin](https://sklep.msalamon.pl/wp-content/uploads/2020/08/sklep_msalamon_MICROUSB_TO_GOLDPIN_3-600x600.jpg)(https://sklep.msalamon.pl/produkt/gniazdo-microusb-do-plytki-prototypowej/)]
-- [![USB A gniazdo to goldpin](https://sklep.msalamon.pl/wp-content/uploads/2020/09/sklep_msalamon_USB_A_TO_GOLDPIN.jpg)(https://sklep.msalamon.pl/produkt/gniazdo-usb-typ-a-do-plytki-prototypowej/)]
+- ![Nucleo F411RE](https://sklep.msalamon.pl/wp-content/uploads/2020/07/sklep_msalamon_NUCLEO64_STLINKV2.jpg)
+[Nucleo F411RE](https://sklep.msalamon.pl/produkt/nucleo-f411re/)
+- ![Płytka stykowa 830 pól](https://sklep.msalamon.pl/wp-content/uploads/2019/10/sklep_msalamon_BREADBOARD_830_WHITE_2.jpg)
+[Płytka stykowa 830 pól](https://sklep.msalamon.pl/produkt/plytka-stykowa-830-pol-biala/)
+- ![Przewody FF 40 szt](https://sklep.msalamon.pl/wp-content/uploads/2019/06/sklep_msalamon_dupont_wires_40x20cm_FF-1.jpg)
+[Przewody FF 40 szt](https://sklep.msalamon.pl/produkt/przewody-polaczeniowe-20cm-40szt-zensko-zenskie/)
+- ![Przewody FM 40 szt](https://sklep.msalamon.pl/wp-content/uploads/2019/06/sklep_msalamon_dupont_wires_40x20cm_FM-1.jpg)
+[Przewody FM 40 szt](https://sklep.msalamon.pl/produkt/przewody-polaczeniowe-20cm-40szt-zensko-meskie/)
+- ![Przewody MM 40 szt](https://sklep.msalamon.pl/wp-content/uploads/2019/06/sklep_msalamon_dupont_wires_40x20cm_MM-1.jpg)
+[Przewody MM 40 szt](https://sklep.msalamon.pl/produkt/przewody-polaczeniowe-20cm-40szt-mesko-meskie/)
+- ![Diody LED](https://ce8dc832c.cloudimg.io/v7/_cdn_/F8/3C/70/00/0/508815_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=bb7868b7a10542b7e94811dcc8ac64508ccb8c38)
+[Diody LED](https://www.tme.eu/pl/details/oso5ja71f4b/diody-led-tht-prostokatne/optosupply/)
+- ![Rezystor do LED](https://ce8dc832c.cloudimg.io/v7/_cdn_/BA/5E/00/00/0/58795_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=50bbad1e718fbcd3dc2ea998f28fbe6de81a27a5)
+[Rezystor do LED](https://www.tme.eu/pl/details/cf1_4w-330r/rezystory-weglowe-tht-1-4w/sr-passives/)
+- ![Joystick](https://sklep.msalamon.pl/wp-content/uploads/2019/07/sklep_msalamon_JOYSTICK_KY023.jpg)
+[Joystick](https://sklep.msalamon.pl/produkt/modul-3-osiowy-joystick-analogowy/)
+- ![Mikrofon KY-037](https://sklep.msalamon.pl/wp-content/uploads/2019/07/sklep_msalamon_MICROPHONE_KY037.png)
+[Mikrofon KY-037](https://sklep.msalamon.pl/produkt/modul-mikrofonu-ze-wzmacniaczem/)
+- ![OLED 0.96" Blue](https://sklep.msalamon.pl/wp-content/uploads/2019/03/sklep_msalamon_OLED_SSD1306_0_96_blue-600x600.jpg)
+[OLED 0.96" Blue](https://sklep.msalamon.pl/produkt/wyswietlacz-oled-096-i2c-niebieski/)
+- ![TFT 2,4 SPI + touch](https://sklep.msalamon.pl/wp-content/uploads/2020/08/sklep_msalamon_TFT_24_ILI9341_RESTOUCH_SPI.png)
+[TFT 2,4 SPI + touch](https://sklep.msalamon.pl/produkt/tft-24-spi-dotyk/)
+- ![BMP280](https://sklep.msalamon.pl/wp-content/uploads/2019/03/sklep_msalamon_BMP280.jpg)
+[BMP280](https://sklep.msalamon.pl/produkt/bmp280-czujnik-cisnienia/)
+- ![Czytnik SD SDIO](https://sklep.msalamon.pl/wp-content/uploads/2019/07/sklep_msalamon_MICROSD_READER_SPISDIO_MOD_2.jpg)
+[Czytnik SD SDIO](https://sklep.msalamon.pl/produkt/czytnik-kart-microsd-spi-sdio/)
+- ![Przewód USB Mini](https://sklep.msalamon.pl/wp-content/uploads/2020/08/sklep_msalamon_CABLE_USB_MINI_1M.jpg)
+[Przewód USB Mini](https://sklep.msalamon.pl/produkt/przewod-usb-mini-1m/)
+- ![Przewód USB Micro](https://sklep.msalamon.pl/wp-content/uploads/2020/08/sklep_msalamon_CABLE_USB_MICRO_1M.jpg)
+[Przewód USB Micro](https://sklep.msalamon.pl/produkt/przewod-usb-micro-1m/)
+- ![USB micro to goldpin](https://sklep.msalamon.pl/wp-content/uploads/2020/08/sklep_msalamon_MICROUSB_TO_GOLDPIN_3-600x600.jpg)
+[USB micro to goldpin](https://sklep.msalamon.pl/produkt/gniazdo-microusb-do-plytki-prototypowej/)
+- ![USB A gniazdo to goldpin](https://sklep.msalamon.pl/wp-content/uploads/2020/09/sklep_msalamon_USB_A_TO_GOLDPIN.jpg)
+[USB A gniazdo to goldpin](https://sklep.msalamon.pl/produkt/gniazdo-usb-typ-a-do-plytki-prototypowej/)
