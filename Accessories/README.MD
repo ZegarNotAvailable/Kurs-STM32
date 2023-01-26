@@ -12,7 +12,7 @@
 - [![TFT 2,4 SPI + touch](https://sklep.msalamon.pl/wp-content/uploads/2020/08/sklep_msalamon_TFT_24_ILI9341_RESTOUCH_SPI.png)(https://sklep.msalamon.pl/produkt/tft-24-spi-dotyk/)]
 - [![BMP280](https://sklep.msalamon.pl/wp-content/uploads/2019/03/sklep_msalamon_BMP280.jpg)(https://sklep.msalamon.pl/produkt/bmp280-czujnik-cisnienia/)]
 - [![Czytnik SD SDIO](https://sklep.msalamon.pl/wp-content/uploads/2019/07/sklep_msalamon_MICROSD_READER_SPISDIO_MOD_2.jpg)(https://sklep.msalamon.pl/produkt/czytnik-kart-microsd-spi-sdio/)]
-- [![Przewód USB Mini]()(https://sklep.msalamon.pl/produkt/przewod-usb-mini-1m/)]
-- [![Przewód USB Micro]()(https://sklep.msalamon.pl/produkt/przewod-usb-micro-1m/)]
-- [![USB micro to goldpin]()(https://sklep.msalamon.pl/produkt/gniazdo-microusb-do-plytki-prototypowej/)]
-- [![USB A gniazdo to goldpin]()(https://sklep.msalamon.pl/produkt/gniazdo-usb-typ-a-do-plytki-prototypowej/)]- [![
+- [![Przewód USB Mini](https://sklep.msalamon.pl/wp-content/uploads/2020/08/sklep_msalamon_CABLE_USB_MINI_1M.jpg)(https://sklep.msalamon.pl/produkt/przewod-usb-mini-1m/)]
+- [![Przewód USB Micro](https://sklep.msalamon.pl/wp-content/uploads/2020/08/sklep_msalamon_CABLE_USB_MICRO_1M.jpg)(https://sklep.msalamon.pl/produkt/przewod-usb-micro-1m/)]
+- [![USB micro to goldpin](https://sklep.msalamon.pl/wp-content/uploads/2020/08/sklep_msalamon_MICROUSB_TO_GOLDPIN_3-600x600.jpg)(https://sklep.msalamon.pl/produkt/gniazdo-microusb-do-plytki-prototypowej/)]
+- [![USB A gniazdo to goldpin](https://sklep.msalamon.pl/wp-content/uploads/2020/09/sklep_msalamon_USB_A_TO_GOLDPIN.jpg)(https://sklep.msalamon.pl/produkt/gniazdo-usb-typ-a-do-plytki-prototypowej/)]
