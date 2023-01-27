@@ -9,3 +9,5 @@
 - ![TFT](https://github.com/ZegarNotAvailable/Kurs-STM32/blob/main/Pictures/With%20TFT.jpg)
 ## Connecting another signals to analyser.
 - ![Connecting anoter signals to analyser](https://github.com/ZegarNotAvailable/Kurs-STM32/blob/main/Pictures/Connecting-anoter-signals-to%20analyser.jpg)
+## BluePill with ST-Link from Nucleo F103RB.
+- ![BluePill with ST-Link from Nucleo](https://github.com/ZegarNotAvailable/Kurs-STM32/blob/main/Pictures/ST-link-v0.jpg)
